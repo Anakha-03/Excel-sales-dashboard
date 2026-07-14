@@ -12,7 +12,8 @@ The dashboard enables users to explore sales performance across different dimens
 
 excel sales dashboard
 
----
+<img width="1097" height="622" alt="image" src="https://github.com/user-attachments/assets/32c62bb0-3b6b-42d4-82d6-3487f59e1f06" />
+
 
 ## Project Objectives
 
